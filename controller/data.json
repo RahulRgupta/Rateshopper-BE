@@ -1,0 +1,4795 @@
+{
+  "_id": {
+    "$oid": "65b9de821aa25a3e5df9c2c0"
+  },
+  "hId": 20001,
+  "otaId": 1,
+  "otaPId": "312254274337401",
+  "timestamp": "2024-01-31",
+  "rates": [
+    {
+      "roomID": 181367,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-01-31",
+      "checkOut": "2024-02-01",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-01",
+      "checkOut": "2024-02-02",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-02",
+      "checkOut": "2024-02-03",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-03",
+      "checkOut": "2024-02-04",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-03",
+      "checkOut": "2024-02-04",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2059
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-03",
+      "checkOut": "2024-02-04",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-03",
+      "checkOut": "2024-02-04",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2721
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2059
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2721
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3147
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-04",
+      "checkOut": "2024-02-05",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3621
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-05",
+      "checkOut": "2024-02-06",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-06",
+      "checkOut": "2024-02-07",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-07",
+      "checkOut": "2024-02-08",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-08",
+      "checkOut": "2024-02-09",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 4350
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 1930
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 5750
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 2551
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 6650
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 2951
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 7650
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-09",
+      "checkOut": "2024-02-10",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 3394
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-13",
+      "checkOut": "2024-02-14",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-14",
+      "checkOut": "2024-02-15",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-15",
+      "checkOut": "2024-02-16",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-16",
+      "checkOut": "2024-02-17",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-17",
+      "checkOut": "2024-02-18",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-18",
+      "checkOut": "2024-02-19",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-19",
+      "checkOut": "2024-02-20",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-20",
+      "checkOut": "2024-02-21",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-21",
+      "checkOut": "2024-02-22",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-22",
+      "checkOut": "2024-02-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-23",
+      "checkOut": "2024-02-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-24",
+      "checkOut": "2024-02-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-25",
+      "checkOut": "2024-02-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-26",
+      "checkOut": "2024-02-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-27",
+      "checkOut": "2024-02-28",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-28",
+      "checkOut": "2024-02-29",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 10600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 4703
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 11500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 5103
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 12500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-02-29",
+      "checkOut": "2024-03-01",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 5068
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-01",
+      "checkOut": "2024-03-02",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-05",
+      "checkOut": "2024-03-06",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-06",
+      "checkOut": "2024-03-07",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-07",
+      "checkOut": "2024-03-08",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-08",
+      "checkOut": "2024-03-09",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-09",
+      "checkOut": "2024-03-10",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-10",
+      "checkOut": "2024-03-11",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-11",
+      "checkOut": "2024-03-12",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-12",
+      "checkOut": "2024-03-13",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-13",
+      "checkOut": "2024-03-14",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-14",
+      "checkOut": "2024-03-15",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-15",
+      "checkOut": "2024-03-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-15",
+      "checkOut": "2024-03-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-15",
+      "checkOut": "2024-03-16",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-15",
+      "checkOut": "2024-03-16",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-16",
+      "checkOut": "2024-03-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-16",
+      "checkOut": "2024-03-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-16",
+      "checkOut": "2024-03-17",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-16",
+      "checkOut": "2024-03-17",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-17",
+      "checkOut": "2024-03-18",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-18",
+      "checkOut": "2024-03-19",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-19",
+      "checkOut": "2024-03-20",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-20",
+      "checkOut": "2024-03-21",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-21",
+      "checkOut": "2024-03-22",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6300
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2795
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 8100
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3594
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10000
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-23",
+      "checkOut": "2024-03-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4437
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3017
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9900
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 4393
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10900
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-24",
+      "checkOut": "2024-03-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4836
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3017
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9900
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 4393
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10900
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-25",
+      "checkOut": "2024-03-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4836
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3017
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9900
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 4393
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 10900
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-03-26",
+      "checkOut": "2024-03-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4836
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 3017
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 9000
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3993
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 9900
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-27",
+      "checkOut": "2024-03-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 4393
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 5800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2573
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-28",
+      "checkOut": "2024-03-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 5800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2573
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-03-29",
+      "checkOut": "2024-03-30",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-30",
+      "checkOut": "2024-03-31",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 5800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-30",
+      "checkOut": "2024-03-31",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2573
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-31",
+      "checkOut": "2024-04-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 5800
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-03-31",
+      "checkOut": "2024-04-01",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2573
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-31",
+      "checkOut": "2024-04-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-03-31",
+      "checkOut": "2024-04-01",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-01",
+      "checkOut": "2024-04-02",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-02",
+      "checkOut": "2024-04-03",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-03",
+      "checkOut": "2024-04-04",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-04",
+      "checkOut": "2024-04-05",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-05",
+      "checkOut": "2024-04-06",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-06",
+      "checkOut": "2024-04-07",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-07",
+      "checkOut": "2024-04-08",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-08",
+      "checkOut": "2024-04-09",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-09",
+      "checkOut": "2024-04-10",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-10",
+      "checkOut": "2024-04-11",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-11",
+      "checkOut": "2024-04-12",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-12",
+      "checkOut": "2024-04-13",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-13",
+      "checkOut": "2024-04-14",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-14",
+      "checkOut": "2024-04-15",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-15",
+      "checkOut": "2024-04-16",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-16",
+      "checkOut": "2024-04-17",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-17",
+      "checkOut": "2024-04-18",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-18",
+      "checkOut": "2024-04-19",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-19",
+      "checkOut": "2024-04-20",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-20",
+      "checkOut": "2024-04-21",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-21",
+      "checkOut": "2024-04-22",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-22",
+      "checkOut": "2024-04-23",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-23",
+      "checkOut": "2024-04-24",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-24",
+      "checkOut": "2024-04-25",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-25",
+      "checkOut": "2024-04-26",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-26",
+      "checkOut": "2024-04-27",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-27",
+      "checkOut": "2024-04-28",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-28",
+      "checkOut": "2024-04-29",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 6500
+    },
+    {
+      "roomID": 181367,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Heritage Rooms",
+      "roomPlan": "CP",
+      "price": 2884
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 7600
+    },
+    {
+      "roomID": 2248,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Premium Room",
+      "roomPlan": "CP",
+      "price": 3372
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 8500
+    },
+    {
+      "roomID": 124875,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Premium Room  with Balcony",
+      "roomPlan": "CP",
+      "price": 3771
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 9500
+    },
+    {
+      "roomID": 4127,
+      "checkIn": "2024-04-29",
+      "checkOut": "2024-04-30",
+      "roomName": "Junior Suite",
+      "roomPlan": "CP",
+      "price": 4215
+    }
+  ]
+}

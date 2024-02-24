@@ -1,0 +1,73 @@
+name: myServer
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: self-hosted
+
+    steps:
+      # - uses: actions/checkout@v1
+      # - name: Use Node.js ${{ matrix.node-version }}
+      #   uses: actions/setup-node@v1
+      #   with: 
+      #     node-version: ${{ matrix.node-version }}
+      #     host: ${{secrets.SSH_HOST}}
+      #     key: ${{secrets.SSH_KEY}}
+
+      # - run: |
+      #     sudo mkdir _work
+      #     sudo cd _work
+      #     git clone git@github.com:Retvensservices/R-own-BE.git
+      #     echo "deployment Successful"
+      #     npm i
+      #     npm start
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: npm
+
+      - name: Install dependencies & Build
+        run: |
+          ls
+          npm i
+        env: 
+          CI: true
+
+      - name: Create env file
+        run: |
+          echo "${{ secrets.ENV_FILE }}" > .env
+
+      - name: Restart server using pm2
+        run: |
+          pm2 restart 0
+        env: 
+          CI: true
+        # this pm2 start function is used when server is restarted 
+        # otherwise we will just use pm2 restart 0 and save
+    #   - name: Start server using pm2
+    #     run: |
+    #       pm2 start npm --name “myServer” -- run start
+    #       pm2 save
+    #       pm2 restart 0
+    #     env: 
+    #       CI: true
+
+      # - name: Start application
+      #   run: |
+
+      # - name: Build application
+      #   run: npm run build
+      # - name: Restart server application
+      #   run: pm2 restart myServer
+
+      - name: Nginx Restart
+        run: sudo service nginx restart
